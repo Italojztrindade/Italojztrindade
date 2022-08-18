@@ -19,7 +19,7 @@ Minhas principais funções são.
 Estou aprendendo mais sobre desenvolvimento Java.
 Estudo pela plataforma da Udemy e deixo todo o meu processo registrado no github
 
-<a href = "https://github.com/Italojztrindade"><img src="https://img.shields.io/badge/Github-%20Link-orange" target="_blank"></a>
+<a href = "https://github.com/Italojztrindade"><img src="https://img.shields.io/badge/-%20Github-orange" target="_blank"></a>
 
 👯‍**Procuro colaborar em**
 
@@ -39,9 +39,9 @@ Java. Estudo sobre e pratico mas seria bom ter um mentor(a) e poder trocar uma i
 
 📫 **Como entrar em contato comigo**
       <div>
-      <a href = "mailto:italojztrindade@gmail.com"><img src="https://img.shields.io/badge/Gmail-%20Link-lightgrey" target="_blank"></a>
-        <a href="https://www.linkedin.com/in/italotrindade/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%20Link-blue" target="_blank"></a> 
-        <a href="https://www.instagram.com/italozarantonelo" target="_blank"><img src="https://img.shields.io/badge/Instagram-%20Link-brightgreen" target="_blank"></a>
+      <a href = "mailto:italojztrindade@gmail.com"><img src="https://img.shields.io/badge/-%20Gmail-lightgrey"></a>
+        <a href="https://www.linkedin.com/in/italotrindade/" target="_blank"><img src="https://img.shields.io/badge/-%20Linkedin-blue"></a> 
+        <a href="https://www.instagram.com/italozarantonelo" target="_blank"><img src="https://img.shields.io/badge/-%20Instagram-brightgreen"></a>
       </div>
 
 
