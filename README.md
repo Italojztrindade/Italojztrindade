@@ -30,7 +30,7 @@ Se tiver alguma oportunidade, mesmo que sem remuneração. Entrem em contato, qu
 
 🤔 **Procuro ajuda com**
 	
-Java. Estudo sobre e pratico mas seria bom ter um mentor(a) e poder trocar uma ídeia sobre.
+Java. Estudo sobre e pratico mas seria bom ter um mentor(a) e poder trocar uma ideia sobre.
 
 💬 **Me pergunte sobre**
 	
