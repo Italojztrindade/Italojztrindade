@@ -1,33 +1,47 @@
-<h3>Olá!</h3>
-<h3>meu nome é Italo Trindade</h3>
+Olá, meu nome é Italo Trindade
+===============
 
 
+
+💻 **Trabalho atual**
+	
+Trabalho na Virtual Sistemas e Tecnologias LTDA e atuo como ***Analista de Suporte Pleno***.
+	
+Minhas principais funções são.
+* 	Prestar suporte de primeiro nível em Help Desk aos funcionários do Banco Inter em aplicações, equipamentos, sistemas, etc.;
+* 	Manter documentação e procedimentos relativos às operações de equipamentos, alterações de software, manutenção e problemas encontrados, com revisão periódica para garantir que estejam atualizados;
+* Avaliar os métodos atuais de uso de software e hardware, recomendando melhorias e eficiências;
+
+	
   
-  <div>
-  <img align="center" alt="Italo-Java" height="20" width="25"  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
-&logoColor=white" target="_blank"></a>
- 
- </div>
- <div>
-  👩‍💻 Trabalho atualmente na/no...
+🧠 **Estou aprendendo**
+	
+Estou aprendendo mais sobre desenvolvimento Java.
+Estudo pela plataforma da Udemy e deixo todo o meu processo registrado no github
 
-🧠 Estou aprendendo...
+<a href = "https://github.com/Italojztrindade"><img src="https://img.shields.io/badge/Github-%20Link-orange" target="_blank"></a>
 
-👯‍♀️ Procuro colaborar em...
+👯‍**Procuro colaborar em**
 
-🤔 Procuro ajuda com...
+Projetos simples e mais complexos, onde possa principalmente, adquirir e melhorar o conhecimento meu e da equipe bem como outras softskills como comunicação, compromisso e etc..
 
-💬 Me pergunte sobre...
+Se tiver alguma oportunidade, mesmo que sem remuneração. Entrem em contato, quem sabe podemos nos ajudar ?
 
-📫 Como entrar em contato comigo...
-<div>
-<a href = "mailto:italojztrindade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/italotrindade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/italozarantonelo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
 
-😄 Pronomes...
+🤔 **Procuro ajuda com**
+	
+Java. Estudo sobre e pratico mas seria bom ter um mentor(a) e poder trocar uma ídeia sobre.
 
-⚡️ Fatos engraçados...
- 
-</div>
+💬 **Me pergunte sobre**
+	
+ Sobre qualquer coisa. Com certeza não sei de tudo mas gosto de conhecer um pouco de cada coisa e vou adorar conhecer mais coisas.
+  
+
+📫 **Como entrar em contato comigo**
+      <div>
+      <a href = "mailto:italojztrindade@gmail.com"><img src="https://img.shields.io/badge/Gmail-%20Link-lightgrey" target="_blank"></a>
+        <a href="https://www.linkedin.com/in/italotrindade/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%20Link-blue" target="_blank"></a> 
+        <a href="https://www.instagram.com/italozarantonelo" target="_blank"><img src="https://img.shields.io/badge/Instagram-%20Link-brightgreen" target="_blank"></a>
+      </div>
+
+
