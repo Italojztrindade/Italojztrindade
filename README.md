@@ -5,19 +5,13 @@ Olá, meu nome é Italo Trindade
 
 💻 **Trabalho atual**
 	
-Trabalho na Virtual Sistemas e Tecnologias LTDA e atuo como ***Analista de Suporte Pleno***.
-	
-Minhas principais funções são.
-* 	Prestar suporte de primeiro nível em Help Desk aos funcionários do Banco Inter em aplicações, equipamentos, sistemas, etc.;
-* 	Manter documentação e procedimentos relativos às operações de equipamentos, alterações de software, manutenção e problemas encontrados, com revisão periódica para garantir que estejam atualizados;
-* Avaliar os métodos atuais de uso de software e hardware, recomendando melhorias e eficiências;
+Trabalho na Sambatech e atuo como ***Analista de Suporte Pleno***.
 
-	
   
 🧠 **Estou aprendendo**
 	
 Estou aprendendo mais sobre desenvolvimento Java.
-Estudo pela plataforma da Udemy e deixo todo o meu processo registrado no github
+Estudo pela plataforma da DIO e deixo todo o meu processo registrado no github
 
 <a href = "https://github.com/Italojztrindade"><img src="https://img.shields.io/badge/-%20Github-orange" target="_blank"></a>
 
